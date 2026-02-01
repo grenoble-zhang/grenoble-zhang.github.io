@@ -64,7 +64,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 
 [Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)
 
-Xunzhi Xiang<sup>*</sup>, Yabo Chen<sup>*</sup>, **Guiyu Zhang***, Zhongyu Wang, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, et al. 
+Xunzhi Xiang<sup>*</sup>, Yabo Chen<sup>*</sup>, <strong>Guiyu Zhang</strong><sup>*</sup>, Zhongyu Wang, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, et al.
 
 [**Paper**](https://arxiv.org/abs/2508.03334) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
 [**Project**](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
