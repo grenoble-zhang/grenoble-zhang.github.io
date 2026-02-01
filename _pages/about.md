@@ -23,24 +23,80 @@ I am a first-year Ph.D student of ***SILab*** at ***The Chinese University of Ho
 My research interests lie in the intersection of ***Computer Vision and Machine Learning***. Now, I focus on designing novel applications for ***image/video generation, World model, autoregressive-generation*** and other downstream AIGC tasks.
 
 # 📖 Educations
-- *2024.10 - up-to-now, Phd, School of Intelligence Science and Technology,*  ***Nanjing University.*** <img src="./images/nju_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
+- *2024.10 - up-to-now, Phd, School of Data Science,*  ***The Chinese University of Hong Kong, Shenzhen.*** <img src="./images/nju_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 - *2021.09 - 2024.06, M.S.  degree, School of Computer Science and Technology,* ***University of Chinese Academy of Sciences.*** <img src="./images/ucas_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
-- *2017.09 - 2021.06, B.S.  degree, School of Electronic Information and Electrical Engineering,* ***Shanghai Jiao Tong University.*** <img src="./images/sjtu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
+- *2017.09 - 2021.06, B.S.  degree, School of Mechanical, Electrical & Information Engineering,* ***Shandong University.*** <img src="./images/sjtu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 
 # 📝 Publications/Preprints - main contribution
+* Equal contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/ProteusID.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization](https://arxiv.org/abs/2506.23729)
+
+**Guiyu Zhang**, Chen Shi, Zijian Jiang, Xunzhi Xiang, Jingjing Qian, Shaoshuai Shi, Li Jiang.
+
+[**Paper**](https://arxiv.org/abs/2506.23729) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://grenoble-zhang.github.io/Proteus-ID/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/grenoble-zhang/Proteus-ID) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/ProteusID.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ctrl-U: Robust Conditional Image Generation via Uncertainty-aware Reward Modeling](https://arxiv.org/abs/2410.11236)
+
+**Guiyu Zhang**, Huan-ang Gao, Zijian Jiang, Hao Zhao, Zhedong Zheng
+
+[**Paper**](https://arxiv.org/abs/2410.11236) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://grenoble-zhang.github.io/Ctrl-U-Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/grenoble-zhang/Ctrl-U) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/MMPL.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)
+
+Xunzhi Xiang*, Yabo Chen*, **Guiyu Zhang***, Zhongyu Wang, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, et al. 
+
+[**Paper**](https://arxiv.org/abs/2508.03334) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
+[**Project**](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/Tele-AI/MMPL) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/TTO.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Few-Step Video Diffusion Plans Semantics Early: Pathwise Test-Time Optimization along the Sampling Trajectory](https://arxiv.org/abs/2511.12633)
 
-**Xunzhi Xiang**, Zixuan Duan, Guiyu Zhang, Haiyu Zhang, Zhe Gao, Junta Wu, Shaofeng Zhang, Tengfei Wang, Qi Fan, Chunchao Guo.
+Xunzhi Xiang, Zixuan Duan, **Guiyu Zhang**, Haiyu Zhang, Zhe Gao, Junta Wu, Shaofeng Zhang, Tengfei Wang, Qi Fan, Chunchao Guo.
 
 [**Paper**](https://arxiv.org/abs/2511.12633) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2025</div><img src='images/TeleWorld.jpg' alt="sym" width="90%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2025</div><img src='images/TeleWorld.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Mode](https://arxiv.org/abs/2601.00051)
@@ -49,31 +105,21 @@ TeleWorld Team.
 
 [**Paper**](https://arxiv.org/abs/2601.00051) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/DenoisingVAE.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Denoising Vision Transformer Autoencoder with Spectral Regularization](https://arxiv.org/abs/2511.12633)
 
-**Xunzhi Xiang**, Xingye Tian, Guiyu Zhang, Yabo Chen, Shaofeng Zhang, Xuebo Wang, Xin Tao, Qi Fan.
+Xunzhi Xiang, Xingye Tian, **Guiyu Zhang**, Yabo Chen, Shaofeng Zhang, Xuebo Wang, Xin Tao, Qi Fan.
 
 [**Paper**](https://arxiv.org/abs/2511.12633) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/MMPL.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)
-
-**Xunzhi Xiang**, Yabo Chen, Guiyu Zhang, Zhongyu Wang, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, et al. 
-
-[**Paper**](https://arxiv.org/abs/2508.03334) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
-[**Project**](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/makeit.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
