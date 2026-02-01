@@ -22,14 +22,12 @@ I am a first-year Ph.D student of ***SILab*** at ***The Chinese University of Ho
 
 My research interests lie in the intersection of ***Computer Vision and Machine Learning***. Now, I focus on designing novel applications for ***image/video generation, World model, autoregressive-generation*** and other downstream AIGC tasks.
 
+<span style="color:red;">I am actively looking for internship opportunities and coauthors!</span>
+
 # 📖 Educations
 - *2024.10 - up-to-now, Phd, School of Data Science,*  ***The Chinese University of Hong Kong, Shenzhen.*** <img src="./images/cuhk_1em.jpg" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 - *2021.09 - 2024.06, M.S.  degree, School of Computer Science and Technology,* ***University of Chinese Academy of Sciences.*** <img src="./images/ucas_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
-- *2017.09 - 2021.06, B.S.  degree, School of Mechanical, Electrical & Information Engineering,* ***Shandong University.*** <img src="./images/SDU_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
-
-<span style="color:red;">I am actively looking for internship opportunities and coauthors!</span>
-
-
+- *2017.09 - 2021.06, B.S.  degree, School of Mechanical, Electrical & Information Engineering,* ***Shandong University.*** <img src="./images/SDU_1em.jpg" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 
 # 📝 Publications/Preprints - main contribution
 *Equal contribution
@@ -48,7 +46,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/Ctrl-U.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/Ctrl-U.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ctrl-U: Robust Conditional Image Generation via Uncertainty-aware Reward Modeling](https://arxiv.org/abs/2410.11236)
@@ -66,7 +64,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 
 [Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)
 
-Xunzhi Xiang*, Yabo Chen*, **Guiyu Zhang***, Zhongyu Wang, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, et al. 
+Xunzhi Xiang**, Yabo Chen*, **Guiyu Zhang***, Zhongyu Wang, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, et al. 
 
 [**Paper**](https://arxiv.org/abs/2508.03334) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
 [**Project**](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
