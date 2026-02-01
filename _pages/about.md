@@ -15,8 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<!-- <span class='anchor' id='about-me'></span> -->
 
+# 🥳 About Me
 I am a first-year Ph.D student of ***SILab*** at ***The Chinese University of Hong Kong, Shenzhen (CUHKSZ)***, under the supervision of Prof. ***Li Jiang*** [-- homepage](https://llijiang.github.io/). I obtained my M.S. in Computer Science at ***the University of Chinese Academy of Sciences (UCAS)*** in 2024 and B.S at ***Shandong University (SDU)*** in 2021. I was also fortunate to be an internship at Tsinghua AIR <img src="./images/Tsinghua.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Huawei <img src="./huawei_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, TeleAI <img src="./teleai_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">.
 <!-- , Kuaishou-Kling <img src="./Kuaishou_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;"><img src="./Kling_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Tecent-Hunyuan. -->
 
