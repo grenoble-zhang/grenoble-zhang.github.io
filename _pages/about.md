@@ -30,7 +30,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 # 📖 Educations
 - *2024.10 - up-to-now, Phd, School of Data Science,*  ***The Chinese University of Hong Kong, Shenzhen.*** <img src="./images/cuhk_1em.jpg" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 - *2021.09 - 2024.06, M.S.  degree, School of Computer Science and Technology,* ***University of Chinese Academy of Sciences.*** <img src="./images/ucas_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
-- *2017.09 - 2021.06, B.S.  degree, School of Mechanical, Electrical &amp; Information Engineering,* ***Shandong University.*** <img src="./images/SDU_1em.jpg" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
+- *2017.09 - 2021.06, B.S.  degree, School of Mechanical, Electrical & Information Engineering,* ***Shandong University.*** <img src="./images/SDU_1em.jpg" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 
 <span class='anchor' id='-publications'></span>
 
@@ -117,4 +117,4 @@ Xunzhi Xiang, Xingye Tian, **Guiyu Zhang**, Yabo Chen, Shaofeng Zhang, Xuebo Wan
 
 # 🎖 Honors and Awards
 - *2020.8* Nation College Student Intelligent Car Competition First Prize.
-- *2020.8* National University Student Contest on Energy Saving &amp; Emission Reduction Second Prize.
+- *2020.8* National University Student Contest on Energy Saving & Emission Reduction Second Prize.
