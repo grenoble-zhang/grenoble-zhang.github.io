@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<!-- <span class='anchor' id='about-me'></span> -->
+<span class='anchor' id='about-me'></span>
 
 # 🥳 About Me
 I am a first-year Ph.D student of ***SILab*** at ***The Chinese University of Hong Kong, Shenzhen (CUHKSZ)***, under the supervision of Prof. ***Li Jiang*** [-- homepage](https://llijiang.github.io/). I obtained my M.S. in Computer Science at ***the University of Chinese Academy of Sciences (UCAS)*** in 2024 and B.S at ***Shandong University (SDU)*** in 2021. I was also fortunate to be an internship at Tsinghua AIR <img src="./images/Tsinghua.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Huawei <img src="./huawei_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, TeleAI <img src="./teleai_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">.
@@ -25,10 +25,14 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 
 <span style="color:red;">I am actively looking for internship opportunities and coauthors!</span>
 
+<span class='anchor' id='-educations'></span>
+
 # 📖 Educations
 - *2024.10 - up-to-now, Phd, School of Data Science,*  ***The Chinese University of Hong Kong, Shenzhen.*** <img src="./images/cuhk_1em.jpg" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 - *2021.09 - 2024.06, M.S.  degree, School of Computer Science and Technology,* ***University of Chinese Academy of Sciences.*** <img src="./images/ucas_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 - *2017.09 - 2021.06, B.S.  degree, School of Mechanical, Electrical & Information Engineering,* ***Shandong University.*** <img src="./images/SDU_1em.jpg" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
+
+<span class='anchor' id='-publications'></span>
 
 # 📝 Publications/Preprints - main contribution
 *Equal contribution
@@ -109,6 +113,7 @@ Xunzhi Xiang, Xingye Tian, **Guiyu Zhang**, Yabo Chen, Shaofeng Zhang, Xuebo Wan
 </div>
 </div>
 
+<span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 - *2020.8* Nation College Student Intelligent Car Competition First Prize.
