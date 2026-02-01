@@ -76,7 +76,7 @@ Xunzhi Xiang<sup>*</sup>, Yabo Chen<sup>*</sup>, <strong>Guiyu Zhang</strong><su
 <div class='paper-box-text' markdown="1">
 
 [FairDiff: Fair Segmentation with Point-Image Diffusion](https://arxiv.org/abs/2407.06250)
-Wenyi Li<sup>*</sup>, Haoran Xu<sup>*</sup>, **Guiyu Zhang***, Huan-ang Gao, Mingju Gao, Mengyu Wang, Hao Zhao
+Wenyi Li<sup>*</sup>, Haoran Xu<sup>*</sup>, <strong>Guiyu Zhang</strong><sup>*</sup>, Huan-ang Gao, Mingju Gao, Mengyu Wang, Hao Zhao
 
 [**Paper**](https://arxiv.org/abs/2410.11236) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Project**](https://grenoble-zhang.github.io/Ctrl-U-Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -95,6 +95,18 @@ Xunzhi Xiang, Zixuan Duan, **Guiyu Zhang**, Haiyu Zhang, Zhe Gao, Junta Wu, Shao
 [**Paper**](https://arxiv.org/abs/2511.12633) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/DenoisingVAE.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Denoising Vision Transformer Autoencoder with Spectral Regularization](https://arxiv.org/abs/2511.12633)
+
+Xunzhi Xiang, Xingye Tian, **Guiyu Zhang**, Yabo Chen, Shaofeng Zhang, Xuebo Wang, Xin Tao, Qi Fan.
+
+[**Paper**](https://arxiv.org/abs/2511.12633) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2020.8* Nation College Student Intelligent Car Competition First Prize.
