@@ -23,7 +23,7 @@ I am a first-year Ph.D student of ***SILab*** at ***The Chinese University of Ho
 My research interests lie in the intersection of ***Computer Vision and Machine Learning***. Now, I focus on designing novel applications for ***image/video generation, World model, autoregressive-generation*** and other downstream AIGC tasks.
 
 # 📖 Educations
-- *2024.10 - up-to-now, Phd, School of Data Science,*  ***The Chinese University of Hong Kong, Shenzhen.*** <img src="./images/nju_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
+- *2024.10 - up-to-now, Phd, School of Data Science,*  ***The Chinese University of Hong Kong, Shenzhen.*** <img src="./images/cuhk_1em.jpg" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 - *2021.09 - 2024.06, M.S.  degree, School of Computer Science and Technology,* ***University of Chinese Academy of Sciences.*** <img src="./images/ucas_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 - *2017.09 - 2021.06, B.S.  degree, School of Mechanical, Electrical & Information Engineering,* ***Shandong University.*** <img src="./images/sjtu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 
