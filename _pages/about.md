@@ -64,7 +64,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 
 [Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)
 
-Xunzhi Xiang*, Yabo Chen*, **Guiyu Zhang***, Zhongyu Wang, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, et al. 
+Xunzhi Xiang<sup>*</sup>, Yabo Chen<sup>*</sup>, **Guiyu Zhang***, Zhongyu Wang, Zhe Gao, Quanming Xiang, Gonghu Shang, Junqi Liu, Haibin Huang, Yang Gao, Chi Zhang, Qi Fan, et al. 
 
 [**Paper**](https://arxiv.org/abs/2508.03334) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
 [**Project**](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -72,11 +72,11 @@ Xunzhi Xiang*, Yabo Chen*, **Guiyu Zhang***, Zhongyu Wang, Zhe Gao, Quanming Xia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024 (Spotlight)</div><img src='images/FairDiff.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024 (Spotlight)</div><img src='images/FairDiff.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FairDiff: Fair Segmentation with Point-Image Diffusion](https://arxiv.org/abs/2407.06250)
-Wenyi Li*, Haoran Xu*, **Guiyu Zhang***, Huan-ang Gao, Mingju Gao, Mengyu Wang, Hao Zhao
+Wenyi Li<sup>*</sup>, Haoran Xu<sup>*</sup>, **Guiyu Zhang***, Huan-ang Gao, Mingju Gao, Mengyu Wang, Hao Zhao
 
 [**Paper**](https://arxiv.org/abs/2410.11236) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Project**](https://grenoble-zhang.github.io/Ctrl-U-Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -84,12 +84,7 @@ Wenyi Li*, Haoran Xu*, **Guiyu Zhang***, Huan-ang Gao, Mingju Gao, Mengyu Wang, 
 </div>
 </div>
 
-
-
-
-
-
-
+# 🔥 Publications/Preprints - participating contribution
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/TTO.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -98,122 +93,6 @@ Wenyi Li*, Haoran Xu*, **Guiyu Zhang***, Huan-ang Gao, Mingju Gao, Mengyu Wang, 
 Xunzhi Xiang, Zixuan Duan, **Guiyu Zhang**, Haiyu Zhang, Zhe Gao, Junta Wu, Shaofeng Zhang, Tengfei Wang, Qi Fan, Chunchao Guo.
 
 [**Paper**](https://arxiv.org/abs/2511.12633) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2025</div><img src='images/TeleWorld.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Mode](https://arxiv.org/abs/2601.00051)
-
-TeleWorld Team.
-
-[**Paper**](https://arxiv.org/abs/2601.00051) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div> -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/DenoisingVAE.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Denoising Vision Transformer Autoencoder with Spectral Regularization](https://arxiv.org/abs/2511.12633)
-
-Xunzhi Xiang, Xingye Tian, **Guiyu Zhang**, Yabo Chen, Shaofeng Zhang, Xuebo Wang, Xin Tao, Qi Fan.
-
-[**Paper**](https://arxiv.org/abs/2511.12633) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/makeit.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation](https://arxiv.org/abs/2506.18226)
-
-**Xunzhi Xiang**, Qi Fan.
-
-[**Paper**](https://arxiv.org/abs/2506.18226) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/remask.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters](https://ojs.aaai.org/index.php/AAAI/article/view/32932)
-
-**Xunzhi Xiang**, Haiwei Xue, Zonghong Dai, Di Wang, Minglei Li, Ye Yue, Fei Ma, Weijiang Yu, Heng Chang, Fei Richard Yu.
-
-[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/32932) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2025</div><img src='images/gnet.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Neural Architecture Predictor based on GNN-Enhanced Transformer](https://proceedings.mlr.press/v238/xiang24a.html)
-
-**Xunzhi Xiang**, Kun Jing, Jungang Xu.
-
-[**Paper**](https://proceedings.mlr.press/v238/xiang24a.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-# 🔥 Publications/Preprints - participating contribution
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/dont.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection](https://neurips.cc/virtual/2025/poster/119868)
-
-Chang-han Liu, **Xunzhi Xiang**, Zixuan Duan, Wenbin Li, Yang Gao, Qi Fan.
-
-[**Paper**](https://neurips.cc/virtual/2025/poster/119868) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/ps.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Proteus-ID: ID-Consistent and Motion-Enhanced Video Customization](https://arxiv.org/abs/2506.23729)
-
-Guiyu Zhang, Chen Shi, Zijian Jiang, **Xunzhi Xiang**, Jingjing Qian, Shaoshuai Shi, Li Jiang.
-
-[**Paper**](https://arxiv.org/abs/2506.23729) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Project**](https://grenoble-zhang.github.io/Proteus-ID/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/survey.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Human Motion Video Generation: A Survey](https://arxiv.org/pdf/2509.03883)
-
-Haiwei Xue, Xiangyang Luo, Zhannghao Hu, Xin Zhang, **Xunzhi Xiang**, Yuqing dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Changpeng Yang, Zonghong Dai, and Fei Richard Yu.
-
-[**Paper**](https://arxiv.org/pdf/2509.03883) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/smart.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SmartSAM: Segment Ambiguous Objects like Smart Annotators](https://xbxsxp9.github.io/)
-
-Zhe Gao, Shiyu Shen, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan .
-
-[**Paper**](https://xbxsxp9.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/hera.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[HERA: Efficient Test-Time Adaptation for Cross-Domain Few-Shot Segmentation with Vision Foundation Models](https://xbxsxp9.github.io/)
-
-Junyuan Ma, **Xunzhi Xiang**, Wenbin Li, Yang Gao, Qi Fan  .
-
-[**Paper**](https://xbxsxp9.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
