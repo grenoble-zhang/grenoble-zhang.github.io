@@ -76,6 +76,7 @@ Xunzhi Xiang<sup>*</sup>, Yabo Chen<sup>*</sup>, <strong>Guiyu Zhang</strong><su
 <div class='paper-box-text' markdown="1">
 
 [FairDiff: Fair Segmentation with Point-Image Diffusion](https://arxiv.org/abs/2407.06250)
+
 Wenyi Li<sup>*</sup>, Haoran Xu<sup>*</sup>, <strong>Guiyu Zhang</strong><sup>*</sup>, Huan-ang Gao, Mingju Gao, Mengyu Wang, Hao Zhao
 
 [**Paper**](https://arxiv.org/abs/2410.11236) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
