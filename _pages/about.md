@@ -120,7 +120,7 @@ Xunzhi Xiang, Xingye Tian, **Guiyu Zhang**, Yabo Chen, Shaofeng Zhang, Xuebo Wan
 
 <span class='anchor' id='-visitor-map'></span>
 
-# 🌍 Visitor Map
+<!-- # 🌍 Visitor Map
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
 <!-- 访客统计 -->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -142,4 +142,4 @@ Xunzhi Xiang, Xingye Tian, **Guiyu Zhang**, Yabo Chen, Shaofeng Zhang, Xuebo Wan
 <div id="visitor-map" style="margin-top: 20px;">
   <!-- 在这里粘贴 ClustrMaps 代码 -->
 </div>
-</div>
+</div> -->
