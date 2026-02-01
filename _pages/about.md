@@ -28,7 +28,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 - *2017.09 - 2021.06, B.S.  degree, School of Mechanical, Electrical & Information Engineering,* ***Shandong University.*** <img src="./images/sjtu_1em.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">
 
 # 📝 Publications/Preprints - main contribution
-* Equal contribution
+*Equal contribution
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/ProteusID.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -37,22 +37,14 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 
 **Guiyu Zhang**, Chen Shi, Zijian Jiang, Xunzhi Xiang, Jingjing Qian, Shaoshuai Shi, Li Jiang.
 
-[**Paper**](https://arxiv.org/abs/2506.23729) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Project**](https://grenoble-zhang.github.io/Proteus-ID/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**](https://github.com/grenoble-zhang/Proteus-ID) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2410.11236) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://grenoble-zhang.github.io/Ctrl-U-Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/grenoble-zhang/Ctrl-U) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
 
-
-
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/ProteusID.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ProteusID.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ctrl-U: Robust Conditional Image Generation via Uncertainty-aware Reward Modeling](https://arxiv.org/abs/2410.11236)
@@ -78,6 +70,17 @@ Xunzhi Xiang*, Yabo Chen*, **Guiyu Zhang***, Zhongyu Wang, Zhe Gao, Quanming Xia
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024 (Spotlight)</div><img src='images/FairDiff.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FairDiff: Fair Segmentation with Point-Image Diffusion](https://arxiv.org/abs/2407.06250)
+Wenyi Li*, Haoran Xu*, **Guiyu Zhang***, Huan-ang Gao, Mingju Gao, Mengyu Wang, Hao Zhao
+
+[**Paper**](https://arxiv.org/abs/2410.11236) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://grenoble-zhang.github.io/Ctrl-U-Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/grenoble-zhang/Ctrl-U) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
 
 
 
