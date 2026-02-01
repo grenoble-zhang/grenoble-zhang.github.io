@@ -121,6 +121,25 @@ Xunzhi Xiang, Xingye Tian, **Guiyu Zhang**, Yabo Chen, Shaofeng Zhang, Xuebo Wan
 <span class='anchor' id='-visitor-map'></span>
 
 # 🌍 Visitor Map
-<div style="text-align: center; margin-top: 20px;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YOUR_CLUSTER_ID&cl=ffffff&w=a&t=tt&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+<!-- 访客统计 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<p>
+  <span id="busuanzi_container_site_pv" style="display:inline-block;margin:0 10px;">
+    👀 本站总访问量 <span id="busuanzi_value_site_pv" style="color:#3acc3a;font-weight:bold;"></span> 次
+  </span>
+  <span id="busuanzi_container_site_uv" style="display:inline-block;margin:0 10px;">
+    👤 访客数 <span id="busuanzi_value_site_uv" style="color:#3acc3a;font-weight:bold;"></span> 人
+  </span>
+</p>
+
+<!-- 访客地图 - 请按以下步骤添加：
+1. 访问 https://clustrmaps.com/add
+2. 输入您的网站: https://grenoble-zhang.github.io
+3. 选择地图样式
+4. 复制获取的代码粘贴在下方
+-->
+<div id="visitor-map" style="margin-top: 20px;">
+  <!-- 在这里粘贴 ClustrMaps 代码 -->
+</div>
 </div>
