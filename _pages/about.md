@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🥳 About Me
-I am a first-year Ph.D student of ***SILab*** at ***The Chinese University of Hong Kong, Shenzhen (CUHKSZ)***, under the supervision of Prof. ***Li Jiang*** [-- homepage](https://llijiang.github.io/). I obtained my M.S. in Computer Science at ***the University of Chinese Academy of Sciences (UCAS)*** in 2024 and B.S at ***Shandong University (SDU)*** in 2021. I was also fortunate to be an internship at Tsinghua AIR <img src="./images/Tsinghua.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Huawei <img src="./huawei_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, TeleAI <img src="./teleai_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Tongyi-Wan <img src="./tongyi.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">.
+I am a first-year Ph.D student of ***SILab*** at ***The Chinese University of Hong Kong, Shenzhen (CUHKSZ)***, under the supervision of Prof. ***Li Jiang*** [-- homepage](https://llijiang.github.io/). I obtained my M.S. in Computer Science at ***the University of Chinese Academy of Sciences (UCAS)*** in 2024 and B.S at ***Shandong University (SDU)*** in 2021. I was also fortunate to be an internship at Tsinghua AIR <img src="./images/Tsinghua.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Huawei <img src="./huawei_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, TeleAI <img src="./teleai_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Tongyi <img src="./tongyi.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">.
 <!-- , Kuaishou-Kling <img src="./Kuaishou_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;"><img src="./Kling_icon.png" style="height: 1em; vertical-align: text-bottom; object-fit: contain;">, Tecent-Hunyuan. -->
 
 My research interests lie in the intersection of ***Computer Vision and Machine Learning***. Now, I focus on designing novel applications for ***image/video generation, World model, autoregressive-generation*** and other downstream AIGC tasks.
@@ -36,6 +36,20 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 
 # 📝 Publications/Preprints - main contribution
 *Equal contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/comingsoon.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation](https://arxiv.org/abs/2506.23729)
+
+**Guiyu Zhang**, Yabo Chen, Xunzhi Xiang, Junchao Huang, Zhongyu Wang, Li Jiang.
+
+[**Paper**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+ 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/ProteusID.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
