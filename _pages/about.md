@@ -40,7 +40,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/SymphoMotion.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation](https://arxiv.org/abs/2506.23729)
+[SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation](http://arxiv.org/abs/2604.03723)
 
 **Guiyu Zhang**, Yabo Chen, Xunzhi Xiang, Junchao Huang, Zhongyu Wang, Li Jiang.
 
