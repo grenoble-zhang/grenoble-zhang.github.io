@@ -45,7 +45,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 **Guiyu Zhang**, Yabo Chen, Xunzhi Xiang, Junchao Huang, Zhongyu Wang, Li Jiang.
 
 [**Paper**](http://arxiv.org/abs/2604.03723) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Project**](https://grenoble-zhang.github.io/SymphoMotion-Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://grenoble-zhang.github.io/SymphoMotion/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://github.com/grenoble-zhang/SymphoMotion/tree/main?tab=readme-ov-file) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
