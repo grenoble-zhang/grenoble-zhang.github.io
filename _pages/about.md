@@ -34,8 +34,43 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 
 <span class='anchor' id='-publications'></span>
 
-# 📝 Publications/Preprints - main contribution
+# 📝 Publications/Preprints
 *Equal contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/LIVE.png' alt="LIVE" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LIVE: Long-horizon Interactive Video World Modeling](https://arxiv.org/abs/2602.03747)
+
+Junchao Huang, Ziyang Ye, Xinting Hu, Tianyu He, **Guiyu Zhang**, Shaoshuai Shi, Jiang Bian, Li Jiang.
+
+[**Paper**](https://arxiv.org/abs/2602.03747) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/TTO.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Few-Step Video Diffusion Plans Semantics Early: Pathwise Test-Time Optimization along the Sampling Trajectory](https://arxiv.org/abs/2511.12633)
+
+Xunzhi Xiang, Zixuan Duan, **Guiyu Zhang**, Haiyu Zhang, Zhe Gao, Junta Wu, Shaofeng Zhang, Tengfei Wang, Qi Fan, Chunchao Guo.
+
+[**Paper**](https://arxiv.org/abs/2511.12633) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/DenoisingVAE.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Denoising Vision Transformer Autoencoder with Spectral Regularization](https://arxiv.org/abs/2511.12633)
+
+Xunzhi Xiang, Xingye Tian, **Guiyu Zhang**, Yabo Chen, Shaofeng Zhang, Xuebo Wang, Xin Tao, Qi Fan.
+
+[**Paper**](https://arxiv.org/abs/2511.12633) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/SymphoMotion.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -103,28 +138,8 @@ Wenyi Li<sup>*</sup>, Haoran Xu<sup>*</sup>, <strong>Guiyu Zhang</strong><sup>*<
 </div>
 </div>
 
-# 🔥 Publications/Preprints - participating contribution
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/TTO.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- # 🔥 Publications/Preprints - participating contribution -->
 
-[Few-Step Video Diffusion Plans Semantics Early: Pathwise Test-Time Optimization along the Sampling Trajectory](https://arxiv.org/abs/2511.12633)
-
-Xunzhi Xiang, Zixuan Duan, **Guiyu Zhang**, Haiyu Zhang, Zhe Gao, Junta Wu, Shaofeng Zhang, Tengfei Wang, Qi Fan, Chunchao Guo.
-
-[**Paper**](https://arxiv.org/abs/2511.12633) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/DenoisingVAE.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Denoising Vision Transformer Autoencoder with Spectral Regularization](https://arxiv.org/abs/2511.12633)
-
-Xunzhi Xiang, Xingye Tian, **Guiyu Zhang**, Yabo Chen, Shaofeng Zhang, Xuebo Wang, Xin Tao, Qi Fan.
-
-[**Paper**](https://arxiv.org/abs/2511.12633) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
 
 <span class='anchor' id='-honors-and-awards'></span>
 
