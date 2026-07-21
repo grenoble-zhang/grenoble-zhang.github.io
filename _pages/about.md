@@ -136,3 +136,5 @@ Xunzhi Xiang, Xingye Tian, **Guiyu Zhang**, Yabo Chen, Shaofeng Zhang, Xuebo Wan
 
 # 🏀 Hobbies
 Beyond research, I enjoy **basketball, long-distance running, and strength training**. I embrace every journey that allows me to explore and push my limits.
+
+<img src="./images/guiyu-back.jpg" alt="Exploring and pushing my limits" style="display: block; width: 100%; height: auto; margin-top: 1rem; border-radius: 8px;">
