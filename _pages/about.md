@@ -23,7 +23,7 @@ I am a first-year Ph.D student of ***SILab*** at ***The Chinese University of Ho
 
 My research interests lie in the intersection of ***Computer Vision and Machine Learning***. Now, I focus on designing novel applications for ***image/video generation, World model, autoregressive-generation*** and other downstream AIGC tasks.
 
-<span style="color:red;">I am actively looking for internship opportunities and coauthors!</span>
+<span style="color:red;"><strong>🤝 I am actively seeking coauthors and research collaborators!</strong> If you are interested in image/video generation, world models, autoregressive generation, or related AIGC topics, please feel free to reach out—I would love to explore ideas and collaborate. I am also open to internship opportunities.</span>
 
 <span class='anchor' id='-educations'></span>
 
