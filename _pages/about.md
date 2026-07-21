@@ -104,7 +104,7 @@ Wenyi Li<sup>*</sup>, Haoran Xu<sup>*</sup>, <strong>Guiyu Zhang</strong><sup>*<
 </div>
 
 # 🔥 Publications/Preprints - participating contribution
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/TTO.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/TTO.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Few-Step Video Diffusion Plans Semantics Early: Pathwise Test-Time Optimization along the Sampling Trajectory](https://arxiv.org/abs/2511.12633)
