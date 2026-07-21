@@ -131,3 +131,8 @@ Xunzhi Xiang, Xingye Tian, **Guiyu Zhang**, Yabo Chen, Shaofeng Zhang, Xuebo Wan
 # 🎖 Honors and Awards
 - *2020.8* Nation College Student Intelligent Car Competition First Prize.
 - *2020.8* National University Student Contest on Energy Saving & Emission Reduction Second Prize.
+
+<span class='anchor' id='-hobbies'></span>
+
+# 🏀 Hobbies
+Beyond research, I enjoy **basketball, long-distance running, and strength training**. I embrace every journey that allows me to explore and push my limits.
