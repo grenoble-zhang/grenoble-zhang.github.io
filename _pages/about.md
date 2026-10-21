@@ -37,7 +37,7 @@ My research interests lie in the intersection of ***Computer Vision and Machine 
 # 📝 Publications/Preprints - main contribution
 *Equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/SMI.png' alt="SMI: understanding-driven spatial memory management for world models" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/SMI.png?v=08d5439' alt="SMI method framework for understanding-driven spatial memory management" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory](https://arxiv.org/abs/2610.02521)
